@@ -1,0 +1,12 @@
+{
+  "Index": {
+    "title": "Hello world!"
+  },
+  "LocaleLayout": {
+    "title": "next-intl example"
+  },
+  "LocaleSwitcher": {
+    "label": "Change language",
+    "locale": "{locale, select, de {German} en {English} other {Unknown}}"
+  }
+}
